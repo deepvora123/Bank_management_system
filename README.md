@@ -8,10 +8,10 @@ This project uses classes and file handling features of C++. In order to store a
 
 Features:
 
-Create an account
-Deposit amount
-Withdraw amount
-Balance Enquiry
-List account holder’s detail
-Close an account
+Create an account <br />
+Deposit amount <br />
+Withdraw amount <br />
+Balance Enquiry <br />
+List account holder’s detail <br />
+Close an account <br />
 Modify an account
